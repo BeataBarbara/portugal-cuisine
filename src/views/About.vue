@@ -14,5 +14,6 @@
     color: black;
     background-image: url(../assets/azulejos7.png);
     height: 700px;
+    
   }
 </style>
