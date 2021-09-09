@@ -20,6 +20,27 @@
             <img alt="przygotowywanie bifany" src="../assets/bifanaMoja.png" title="przygotowywanie bifany"   />
         </div>
         </div>
+
+        <div class="danie">
+        <h2>Bacalhau a lagareiro</h2>
+        <div class="opis-dania">
+            <p class="opis">
+                Dorsz w oliwie z oliwek z czosnkiem i cebulą <br>
+                Dorsza płuczemy, moczymy w mleku około 2 godzin, a następnie gotujemy go w nim kilka minut. Wyciągamy, osuszamy ręcznikiem papierowym i układamy w naczyniu żaroodpornym. Cebulę kroimy w krążki, czosnek w cienkie plasterki i układamy na dorszu. Ziemniaki myjemy lub obieramy (wedle uznania), gotujemy około 10 minut i dodajemy do naczynia z rybą. Polewamy obficie oliwą. Pieczemy w nagrzanym do 180 st. C piekarniku około 40 minut. Przed podaniem dekorujemy zieloną pietruszką i oliwkami. 
+            </p>              
+            <img alt="bacalhau a lagareiro" src="../assets/bacalhaualagareiro.jpg" title="bacalhau a lagareiro"   />
+        </div>
+        </div>
+        <div class="danie">
+        <h2>Leitão assado da bairrada</h2>
+        <div class="opis-dania">
+            <p class="opis">
+                Porco preto – Czarna świnia iberyjska – to gatunek świni domowej, najczęściej spotykany w centralnych i południowych regionach kraju. Portugalczycy bardzo dbają o należyte warunki hodowli i odpowiednią dietę, która często oparta jest na żołędziach, by uzyskać mięso o wyjątkowej jakości i smaku.  <br>
+                Smakołyk wywodzi się z regionu Bairrada w środkowej Portugalii. Przed upieczeniem młode prosię nacierane jest mieszanką czosnku, soli, pieprzu i smalcu, a następnie nadziewane na duży rożen. Długie i powolne pieczenie nad ogniem sprawia, że intensywnie aromatyzowane mięso zaczyna oddzielać się od kości, a skórka staje się złocista i bardzo chrupiąca. Pieczone prosię podawane jest z batatas fritas (frytkami) i salada mista.
+            </p>
+            <img alt="pieczone prosię" src="../assets/Leitãoassadodabairrada.png" title="pieczone prosię"   />
+        </div>
+        </div>
     </div>
 </template>
 

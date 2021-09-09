@@ -6,6 +6,12 @@
   Treść skupia się na kuchni Portugalii kontynentalnej (a więc z wyłączeniem kuchnii Madery i Azorów).  <br>
   Autor: Beata Skoruś
 </p>
+
+<p>
+  <ul>Źródła
+    <li> <a href="https://r.pl/blog/jakich-portugalskich-potraw-warto-sprobowac?">Link1</a></li>
+  </ul>
+</p>
   </div>
 </template>
 

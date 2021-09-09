@@ -12,7 +12,10 @@
         <div class="danie">
         <h2>Grillowane sardynki z sałatką</h2>
         <div class="opis-dania">
-            <p class="opis">podawane z pomidorami oraz pastą z oliwy, oliwek i czosnku            </p>
+            <p class="opis">
+                Podawane z pomidorami oraz pastą z oliwy, oliwek i czosnku <br>
+                Pieczone na węglu drzewnym sardynki są jednym z ulubionych, prostych dań, wybieranym przez Portugalczyków zwłaszcza w upalne, letnie dni. W nocy z 12 na 13 czerwca w całym kraju rozpoczyna się Festas de Sardinha, podczas którego chrupiące sardynki z grilla można dostać dosłownie na każdym rogu.
+           </p>
             <img alt="" src="" title=""   />
         </div>
         </div>
