@@ -1,10 +1,13 @@
 <template>
-  <div class="home">
-    <img alt="flaga Portugalii" src="../assets/flag.png" />
+  <div class="main">
+    <img src="../assets/kogut2.png" alt="kogut z barcelos"  title="kogut z barcelos" width="200" />
+    <img alt="flaga Portugalii" src="../assets/flag.png" width="380"  />
+    <img src="../assets/kogut.png" alt="kogut z barcelos"  title="kogut z barcelos" width="200" />
     <Intro msg="Welcome to Your Vue.js App" />
         <h1>Kuchnia Portugalska</h1>
     <div class="container">
       <p>Kuchnia portugalska jest wyjątkowo zróżnicowana. Wiele dań ma regionalne odmiany. Swoimi popisowymi daniami mogą pochwalić się poszczególne miasta, takie jak Lizbona czy Porto. W rolniczych prowincjach (Alentejo i Ribatejo) często sięga się po mięso wołowe. Z kolei w regionie Algarve widoczne są wpływy kuchni muzułmańskich Maurów. Kuchnia całego Półwyspu Iberyjskiego słynie jednak przede wszystkim z dań rybnych, jak i owoców morza. <br> <br> Typowo portugalską rybą jest dorsz – <b> bacalhau</b>, którego mieszkańcy tego kraju są w stanie przygotować na nieskończenie wiele sposobów. W tej kuchni pojawia się też wcale nie dużo mniej bardzo oryginalnych dań mięsnych. Większość potraw jest gotowana, ewentualnie duszona, ryby się grilluje. Mało jest natomiast dań smażonych. Nie brakuje kilku bomb kalorycznych. Portugalczycy mają swoje regionalne fast foody. <br> <br> Bezkonkurencyjne są natomiast portugalskie desery, które bazują głównie na żółtkach z cukrem i dodatkach w postaci migdałów, pomarańczy, cynamonu.</p>
+      <img src="../assets/mapa.png" alt="mapa fizyczna Portugalii" title="mapa fizyczna Portugalii" >
     </div>
   </div>
 </template>
@@ -23,25 +26,38 @@ export default {
 
 <style>
 h1 {
-  color: black
+  color: black;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 50px;
+  padding-bottom: 0;
 }
 
 img {
-  width: 20%
+  padding-bottom: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .container {
   padding: 20px;
-  background-color: aquamarine;
+  background-color: rgb(175, 248, 248);
   color: black;
   border-radius: 20px;
   margin: 30px;
   opacity: 10;
   text-align: justify;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif  ;
+  font-size: 25px;
+  display: flex;
 }
 
-.home {
-  background-image: url(../assets/azulejos7.png);
-  height: 700px;
+.container img {
+  height: 500px;
+  padding-left: 150px;
+}
+
+.main {
+  height: 950px;
+  padding: 5px
 }
 </style>

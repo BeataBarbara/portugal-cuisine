@@ -1,5 +1,5 @@
 <template>
-  <div class="about">
+  <div class="main">
     <h1>O stronie</h1>
 <p>
   Strona powstała przy użyciu frameworka vue (wersja 3). <br>
@@ -18,7 +18,7 @@
 <style >
   .about {
     color: black;
-    background-image: url(../assets/azulejos7.png);
+    /* background-image: url(../assets/azulejos7.png); */
     height: 700px;
     
   }

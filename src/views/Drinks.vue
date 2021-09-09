@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="main">
         <h1>
             Napoje %%
         </h1>
@@ -57,18 +57,8 @@
 </template>
 
 <style>
-
-    p {
-        width: 75%;
+    .main{
+      height: 4700px;
     }
-    .danie {
-        width:80%;
-        background-color: aquamarine;
-        padding: 5px;
-        border-radius: 20px;
-        margin: 10px;
-    }
-    .opis-dania {
-        display: flex;
-    }
+ 
 </style>

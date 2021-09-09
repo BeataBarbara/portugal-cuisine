@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="main">
         <h1>
             Dania główne
         </h1>
@@ -15,7 +15,10 @@
         <div class="danie">
         <h2>Bifana</h2>
         <div class="opis-dania">
-            <p class="opis">Kanapka w pszennej bułce z duszoną wieprzowiną. Mięso gotowane jest z dodatkiem czosnku, przypraw, sosu pomidorowego i białego wina. <br> Jest jedną z ulubionych kanapek Portugalczyków, nawet tamtejszy McDonald nie oparł się jej popularności i wprowadził do swojej oferty McBifanę.
+            <p class="opis">
+                Bifana to niedroga i bardzo smaczna potrawa, serwowana w wielu portugalskich lokalach. Cienko pokrojone bitki wieprzowe smaży się, a następnie dusi w sosie pomidorowym z dodatkiem wina i przypraw. Tak przygotowane mięso serwuje się w bułce. <br>
+                Idealnym dodatkiem do dania jest butelka lokalnego piwa.
+                Jest jedną z ulubionych kanapek Portugalczyków, nawet tamtejszy McDonald nie oparł się jej popularności i wprowadził do swojej oferty McBifanę.
             </p>
             <img alt="przygotowywanie bifany" src="../assets/bifanaMoja.png" title="przygotowywanie bifany"   />
         </div>
@@ -45,18 +48,7 @@
 </template>
 
 <style>
-
-    p {
-        width: 75%;
-    }
-    .danie {
-        width:80%;
-        background-color: aquamarine;
-        padding: 5px;
-        border-radius: 20px;
-        margin: 10px;
-    }
-    .opis-dania {
-        display: flex;
-    }
+ .main {
+     height: 1800px;
+ }
 </style>

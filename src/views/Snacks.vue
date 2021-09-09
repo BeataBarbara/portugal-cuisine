@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="main">
         <h1>Przekąski        </h1>
         <div class="danie">
         <h2>Peixinhos da Horta</h2>
