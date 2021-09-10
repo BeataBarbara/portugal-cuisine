@@ -43,6 +43,7 @@
 
 .main {
   background-color: whitesmoke;
+  height: 9 00px;
 }
 
   .about {
