@@ -18,14 +18,14 @@
   </p>
       </div>
 <div class="">
-  <img src="../assets/jacaranda.png" alt="jakaranda wąskolistna" title="jakaranda wąskolistna"  />
+  <img class="jacaranda" src="../assets/jacaranda.png" alt="jakaranda wąskolistna" title="jakaranda wąskolistna"  />
 </div>
 </div>
   </div>
 </template>
 
 <style >
- img {
+ .jacaranda {
    height: 700px;
    align-self: right;
    padding-left: 60px;
