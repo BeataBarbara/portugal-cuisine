@@ -12,6 +12,16 @@
 
 <style>
 
+    h1 {
+      font-size: 50px;
+    }
+
+    h2 {
+      font-size: 35px;
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+
     .main{
       background-image: url(./assets/azulejos7.png);
       font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif  ;
@@ -70,6 +80,6 @@
 }
 
 #nav a.router-link-exact-active {
-  color: #42b983;
+  color: rgb(5, 91, 225)
 }
 </style>

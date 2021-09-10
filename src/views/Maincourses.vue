@@ -44,11 +44,23 @@
             <img alt="pieczone prosię" src="../assets/Leitãoassadodabairrada.png" title="pieczone prosię"   />
         </div>
         </div>
+        <div class="danie">
+        <h2>Gambas a guilho</h2>
+        <div class="opis-dania">
+            <p class="opis">
+                Gambas a guilho, czyli krewetki smazone w oliwie z dodatkiem czosnki, wina i chilli
+                Gambas a guilho to przepis portugalski, ktory zmienia sie w zaleznosci od kucharza przez ktorego jest przygotowywany. Wspolna jest idea dania: musi byc czosnkowo, pikantnie i z dodatkiem alkoholu. W wielu miejscach uzywa sie whisky, ja jednak mialam ochote na wzbogacenie aromatu krewetek kwaskowatym, zielonym winem.
+            </p>
+            <img alt="krewetki smazone w oliwie z dodatkiem czosnki, wina i chilli" src="../assets/krewetki.png" title="krewetki smazone w oliwie z dodatkiem czosnki, wina i chilli"   />
+        </div>
+        </div>
     </div>
 </template>
 
 <style>
  .main {
-     height: 1800px;
+     height: 2150px;
  }
+
+
 </style>
