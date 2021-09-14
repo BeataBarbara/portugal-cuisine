@@ -47,6 +47,6 @@
 
 <style>
  .main {
-     height: 1550px;
+     height: 1130px;
  }
 </style>

@@ -60,7 +60,7 @@
 
 <style>
     .main{
-      height: 1950px;
+      height: 1380px;
     }
  
 </style>

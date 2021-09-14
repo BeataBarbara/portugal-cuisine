@@ -33,6 +33,6 @@
 
 <style>
  .main {
-     height: 1300px;
+     height: 870px;
  }
 </style>

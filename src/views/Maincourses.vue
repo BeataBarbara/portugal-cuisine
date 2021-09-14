@@ -43,7 +43,7 @@
             <img alt="bacalhau a lagareiro" src="../assets/bacalhaualagareiro.jpg" title="bacalhau a lagareiro"   />
         </div>
         </div>
-        <div class="danie">
+        <!-- <div class="danie">
         <h2>Leitão assado da bairrada</h2>
         <div class="opis-dania">
             <p class="opis">
@@ -52,8 +52,8 @@
             </p>
             <img alt="pieczone prosię" src="../assets/Leitãoassadodabairrada.png" title="pieczone prosię"   />
         </div>
-        </div>
-        <div class="danie">
+        </div> -->
+        <!-- <div class="danie">
         <h2>Gambas a guilho</h2>
         <div class="opis-dania">
             <p class="opis">
@@ -62,13 +62,13 @@
             </p>
             <img alt="krewetki smazone w oliwie z dodatkiem czosnki, wina i chilli" src="../assets/krewetki.png" title="krewetki smazone w oliwie z dodatkiem czosnki, wina i chilli"   />
         </div>
-        </div>
+        </div> -->
     </div>
 </template>
 
 <style>
  .main {
-     height: 2450px;
+     height: 1140px;
  }
 
 

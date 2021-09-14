@@ -26,26 +26,24 @@ export default {
 h1 {
   color: black;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  font-size: 50px;
   padding-bottom: 0;
 }
 
 img {
-  padding-bottom: 5px;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .container {
-  padding: 20px;
+  padding: 10px;
   background-color: rgb(175, 248, 248);
   color: black;
   border-radius: 20px;
-  margin: 30px;
+  margin: 20px;
   opacity: 10;
   text-align: justify;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif  ;
-  font-size: 25px;
+  /* font-size: 25px; */
   display: flex;
 }
 
@@ -55,7 +53,7 @@ img {
 }
 
 .main {
-  height: 950px;
+  height: 800px;
   padding: 5px
 }
 </style>

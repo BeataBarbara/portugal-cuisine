@@ -13,13 +13,13 @@
 <style>
 
     h1 {
-      font-size: 50px;
+      font-size: 30px;
     }
 
     h2 {
-      font-size: 35px;
-      margin-top: 10px;
-      margin-bottom: 10px;
+      font-size: 22px;
+      margin-top: 2px;
+      margin-bottom: 2px;
     }
 
     .main{
@@ -28,17 +28,17 @@
     }
 
     img {
-      height: 250px;
+      height: 200px;
     }
 
     p {
-        width: 75%;
+        width: 80%;
         text-align: justify;
-        font-size: 25px;
+        font-size: 15px;
     }
 
     .danie {
-        width:70%;
+        width:75%;
         background-color: rgb(175, 248, 248);
         padding: 5px;
         border-radius: 20px;
@@ -64,14 +64,15 @@
 }
 
 #nav {
-  padding: 30px;
+  padding: 20px;
   background-image: url('./assets/azulejos1.jpg') ;
+  font-size: 20px
 }
 
 #nav a {
   font-weight: bold;
   color: #2c3e50;
-  font-size: 30px;
+  font-size: 20px;
   padding-left: 7px;
   padding-right: 7px;
   padding-bottom: 4px;

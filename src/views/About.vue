@@ -26,7 +26,7 @@
 
 <style >
  .jacaranda {
-   height: 700px;
+   height: 500px;
    align-self: right;
    padding-left: 60px;
  }
@@ -39,11 +39,13 @@
     background-color: whitesmoke;
     /* width: 60%; */
     border-radius: 20px;
+    height: 500px;
+    padding-left: 7px;
 }
 
 .main {
   background-color: whitesmoke;
-  height: 9 00px;
+  height: 600px;
 }
 
   .about {
