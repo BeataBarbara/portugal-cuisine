@@ -36,7 +36,7 @@
         <h2>ovos moles</h2>
         <div class="opis-dania">
             <p class="opis">
-                Ovos moles, czyli tłumacząc dosłownie miękkie jajka.Nazwa odnosi się do  kremu z żółtek i cukru, który może być podawany w różnych wersjach.Czasem masa ovos moles jest  sprzedawana w niewielkich drewnianych baryłkach z wymalowanymi motywami z Aveiro. Najsłynniejsze to ovos moles zamknięte w skorupce z opłatka, który jest formowany w kształty kojarzące się z  okolicami Aveiro, czyli muszelki, ryby, kraby, baryłki itp.
+                Ovos moles, czyli tłumacząc dosłownie miękkie jajka. Nazwa odnosi się do  kremu z żółtek i cukru, który może być podawany w różnych wersjach.Czasem masa ovos moles jest  sprzedawana w niewielkich drewnianych baryłkach z wymalowanymi motywami z Aveiro. Najsłynniejsze to ovos moles zamknięte w skorupce z opłatka, który jest formowany w kształty kojarzące się z  okolicami Aveiro, czyli muszelki, ryby, kraby, baryłki itp.
 
            </p>
             <img alt="ovos moles" src="../assets/ovosmoles.png" title="ovos moles"   />
